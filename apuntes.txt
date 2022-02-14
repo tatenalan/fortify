@@ -1,0 +1,17 @@
+Fortify
+Login
+Register
+Remember me
+Verify Email
+Forgot Password
+Traduccion laravel español
+
+tirar php artisan publish:vendor para notifications e emails
+Creacion de migraciones, seeders y factories
+
+
+Al crear un usuario se le envian 2 emails a su casilla. Uno con las credenciales y otro
+para verificar su cuenta. Deberia enviarse todo en uno preferentemente.
+Podríamos tunear el de verificar cuenta para que tenga tambien los datos de acceso.
+
+questions, results y tabla intermedia form_user
